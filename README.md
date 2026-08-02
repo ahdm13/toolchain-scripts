@@ -1,2 +1,3 @@
 # toolchain-scripts
-Scripts for building toolchains
+Scripts for building toolchains. Last time I checked, there were a few bugs with
+these scripts. I should probably consider fixing them...
