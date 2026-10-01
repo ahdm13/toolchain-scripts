@@ -152,7 +152,7 @@ INSTALL_DIR="${INSTALL_DIR:-$default_install_dir}"
 JOBS="${JOBS:-$default_jobs}"
 SYSROOT="${SYSROOT:-$default_sysroot}"
 TARGET="${TARGET:-$default_target}"
-TOOLCHAIN_DIR="${TOOLCHAIN:-$default_toolchain_dir}"
+TOOLCHAIN_DIR="${TOOLCHAIN_DIR:-$default_toolchain_dir}"
 
 # Execute commands:
 if [ "$#" = 0 ]; then
